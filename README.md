@@ -1,2 +1,4 @@
 # Kaggle_Titanic_Competition
 Kaggle Titanic Competition ML and Data Analysis
+<p>Everybody knows about Titanic tragedy which happened in 1912 on April 15. The death of the Titanic is one of the most notorious shipwrecks in history. And, unfortunately, there were not enough boats for survival for everyone, and because of this, 1502 of 2224 passengers died. Based on data from this tragedy Kaggle created competition for building a ML model which would answer a lot of questions. Kaggle is a portal for Machine learning competitions. There are a lot of dataset for beginning our journey in machine learning and data analysis. The Titanic one is a beginner competition and the most popular one. We should build a ML model which would predict which passenger died or survived.</p>
+<p>All the Description you can find in the Report file</p>
